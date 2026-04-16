@@ -9,21 +9,7 @@ Predict stroke risk using medical data
 Preserve patient privacy using Federated Learning principles
 Compare Centralized Learning vs Federated Learning performance
 Demonstrate real-world healthcare AI use case
-Project Structure
-stroke-fl/
-│
-├── data/
-│   └── healthcare-dataset-stroke-data.csv
-│
-├── model.py
-├── preprocess.py
-├── centralized.py
-├── fl_simulation.py
-├── app.py
-│
-├── centralized_results.json
-├── fl_results.json
-└── requirements.txt
+
 Tech Stack
 *Machine Learning
 Scikit-learn — Model building (Logistic Regression), training & evaluation
